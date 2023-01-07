@@ -97,3 +97,11 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <p><p b><p c><x><x a><body bgcolor=F5D6B4><style>*{position:fixed;left:70}p{width:60;height:30;border:20px solid#D86F45;border-top:0;border-radius:0 0 60px 60px;top:134}[b]{left:150;top:84;transform:rotate(180deg)}[c]{left:230}x{width:20;height:20;background:#D86F45;border-radius:50%;top:140}[a]{left:310
 ```
+
+## [Target #13 - Totally Triangle](https://cssbattle.dev/play/13)
+
+![](https://cssbattle.dev/targets/13.png)
+
+```HTML
+<body bgcolor=F3AC3C><p style="width:600;height:498;background:#0B2429;transform:rotate(45deg)">
+```
