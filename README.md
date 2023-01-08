@@ -105,3 +105,19 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <body bgcolor=F3AC3C><p style="width:600;height:498;background:#0B2429;transform:rotate(45deg)">
 ```
+
+## [Target #14 - Web Maker Logo](https://cssbattle.dev/play/14)
+
+![](https://cssbattle.dev/targets/14.png)
+
+```HTML
+<p><p a><body bgcolor=F2F2B6><style>:before,:after{content:"";position:fixed;top:85;left:60;border-top:130px solid#FF6D00;border-left:75px solid transparent;border-right:75px solid transparent}p:after{border-color:#FD4602 transparent transparent;margin:0 20}[a]{margin:300 -8;transform:rotate(180deg)}[a]:after{z-index:2}
+```
+
+## [Target #15 - Overlap](https://cssbattle.dev/play/15)
+
+![](https://cssbattle.dev/targets/15.png)
+
+```HTML
+<div a></div><div b><div c><body bgcolor=#09042A><style>div{position:absolute;width: 150;height:150;border-radius:50%;overflow:hidden}[a]{margin:67;background:#7B3F61}[b]{margin:67 167;background:#E78481}[c]{margin:0 -100;background:#09042A
+```
