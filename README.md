@@ -121,3 +121,11 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <div a></div><div b><div c><body bgcolor=#09042A><style>div{position:absolute;width: 150;height:150;border-radius:50%;overflow:hidden}[a]{margin:67;background:#7B3F61}[b]{margin:67 167;background:#E78481}[c]{margin:0 -100;background:#09042A
 ```
+
+## [Target #16 - Eye of the Tiger](https://cssbattle.dev/play/16)
+
+![](https://cssbattle.dev/targets/16.png)
+
+```HTML
+<p i><p p><style>body{background:#0B2429;display:flex;justify-content:center;align-items:center}[i]{width:200;height:200;background:#998235;border-radius:50% 0;transform:rotate(45deg)}[p]{position:fixed;border-radius:50%;width:50;height:50;background:#0B2429;box-shadow:0 0 0 45px#F3AC3C,0 0 0 65px#0B2429
+```
