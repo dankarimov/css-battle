@@ -129,3 +129,11 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <p i><p p><style>body{background:#0B2429;display:flex;justify-content:center;align-items:center}[i]{width:200;height:200;background:#998235;border-radius:50% 0;transform:rotate(45deg)}[p]{position:fixed;border-radius:50%;width:50;height:50;background:#0B2429;box-shadow:0 0 0 45px#F3AC3C,0 0 0 65px#0B2429
 ```
+
+## [Target #17 - Fidget Spinner](https://cssbattle.dev/play/17)
+
+![](https://cssbattle.dev/targets/17.png)
+
+```HTML
+<div><p y><p x><body bgcolor=09042A><style>*{position:fixed}p{width:60;height:60;border-radius:50%}[y]{background:#F5BB9C;border:10px solid#09042A;top:41;left:160;-webkit-box-reflect:below 26px}[x]{border:10px solid#E78481;top:94;left:100;-webkit-box-reflect:right 40px}div{width:60;height:50;background:#E78481;top:124;left:170
+```
