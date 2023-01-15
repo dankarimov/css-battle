@@ -145,3 +145,11 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <p><p l><p><p l><p l><p><p l><p><p><p l><p><p l><style>body{background:#5C434C;margin:0}p{margin:10;width:80;height:80;background:#F09462;border-radius:100% 0 0;display:inline-block}[l]{background:#F5D6B4
 ```
+
+## [Target #19 - Cube](https://cssbattle.dev/play/19)
+
+![](https://cssbattle.dev/targets/19.png)
+
+```HTML
+<p b><p a><p><body bgcolor=#0B2429><style>p{background:#F3AC3C;position:fixed;width:100;height:100;top:120;left:150;transform:rotate(45deg)}[a]{background:#998235;transform:skewY(-45deg);left:130}[b]{background:#1A4341;transform:skewY(45deg);left:200}[a],[b]{width:70;height:70;top:64}
+```
