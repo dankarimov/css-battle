@@ -153,3 +153,11 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <p b><p a><p><body bgcolor=#0B2429><style>p{background:#F3AC3C;position:fixed;width:100;height:100;top:120;left:150;transform:rotate(45deg)}[a]{background:#998235;transform:skewY(-45deg);left:130}[b]{background:#1A4341;transform:skewY(45deg);left:200}[a],[b]{width:70;height:70;top:64}
 ```
+
+## [Target #20 - Ticket](https://cssbattle.dev/play/20)
+
+![](https://cssbattle.dev/targets/20.png)
+
+```HTML
+<div><p a><p b><p c s><p d s><p e><p f><style>*{position:absolute;background:#62306D}div{width:140;height:100;background:#F7EC7D;border-right:60px solid#E38F66;margin:92}p{border-radius:50%;width:40;height:40;top:64}[c]{top:-26}[d]{top:74}[a],[e]{top:-36}[a],[b]{left:-20}[c],[d]{right:-10}[e],[f]{right:-80}[s]{width:20;height:20
+```
