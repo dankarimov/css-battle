@@ -162,10 +162,18 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 <div><p a><p b><p c s><p d s><p e><p f><style>*{position:absolute;background:#62306D}div{width:140;height:100;background:#F7EC7D;border-right:60px solid#E38F66;margin:92}p{border-radius:50%;width:40;height:40;top:64}[c]{top:-26}[d]{top:74}[a],[e]{top:-36}[a],[b]{left:-20}[c],[d]{right:-10}[e],[f]{right:-80}[s]{width:20;height:20
 ```
 
-## [Target #21 - SitePoint Logo](https://cssbattle.dev/play/210)
+## [Target #21 - SitePoint Logo](https://cssbattle.dev/play/21)
 
 ![](https://cssbattle.dev/targets/21.png)
 
 ```HTML
 <x><p a><p b><p c><p d><body bgcolor=#222><style>*{position:absolute}x{width:82;height:130;top:77;left:150;transform:rotate(-45deg)}p{margin:0;width:100;height:30}[a]{background:#F2994A;border-radius:10px 0 0}[b]{background:#F2994A;border-radius:10px 0 5px}[c]{background:#2D9CDB;border-radius:0 0 10px;bottom:0;right:0}[d]{background:#2D9CDB;border-radius:5px 0 10px;right:0;bottom:0}[b],[d]{width:30;height:80
+```
+
+## [Target #22 - SitePoint Logo](https://cssbattle.dev/play/22)
+
+![](https://cssbattle.dev/targets/22.png)
+
+```HTML
+<p><p b><p c><body bgcolor=F5D6B4><style>p{position:fixed;width:100;height:100;background:#D86F45;border-radius:50%;top:99;left:100}[b]{top:69;left:180}[c]{width:175;height:50;border-radius:50px;top:149;left:125
 ```
