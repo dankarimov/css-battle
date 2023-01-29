@@ -185,3 +185,11 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <p><body bgcolor=F3AC3C><style>p{background:#F3AC3C;width:50;height:50;margin:200 142;box-shadow:-25px -25px 0 25px#998235,25px -75px 0 75px#1A4341
 ```
+
+## [Target #24 - Switches](https://cssbattle.dev/play/24)
+
+![](https://cssbattle.dev/targets/24.png)
+
+```HTML
+<p d><p c><p><p b><body bgcolor=62306D><style>p{position:fixed;width:100;height:100;background:#F7EC7D;border-radius:50%;top:84;left:80}[b]{left:220}[c],[d]{height:150;border-radius:50px}[c]{background:#AA445F;top:34}[d]{background:#E38F66;left:220
+```
