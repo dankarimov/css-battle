@@ -193,3 +193,11 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <p d><p c><p><p b><body bgcolor=62306D><style>p{position:fixed;width:100;height:100;background:#F7EC7D;border-radius:50%;top:84;left:80}[b]{left:220}[c],[d]{height:150;border-radius:50px}[c]{background:#AA445F;top:34}[d]{background:#E38F66;left:220
 ```
+
+## [Target #25 - Blossom](https://cssbattle.dev/play/25)
+
+![](https://cssbattle.dev/targets/25.png)
+
+```HTML
+<p x><p x z a><p y c><p y z><body bgcolor=998235><style>p{position:fixed;left:110;top:44;width:80;border-radius:0 50px}[x]{height:100;background:#1A4341}[y]{height:60;background:#F3AC3C}[a]{top:124}[c]{top:164}[z]{left:210;border-radius:50px 0
+```
