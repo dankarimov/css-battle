@@ -201,3 +201,12 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 ```HTML
 <p x><p x z a><p y c><p y z><body bgcolor=998235><style>p{position:fixed;left:110;top:44;width:80;border-radius:0 50px}[x]{height:100;background:#1A4341}[y]{height:60;background:#F3AC3C}[a]{top:124}[c]{top:164}[z]{left:210;border-radius:50px 0
 ```
+
+## [Target #26 - Smiley](https://cssbattle.dev/play/26)
+
+![](https://cssbattle.dev/targets/26.png)
+
+```HTML
+<p><p a><p b><body bgcolor=6592CF><style>p{position:fixed;top:24;left:40;
+width:80;height:40;border:20px solid#060F55;border-bottom:0;border-radius:80px 80px 0 0}[a]{left:240}[b]{transform:rotate(180deg);top:184;left:140
+```
