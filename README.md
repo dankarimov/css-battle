@@ -210,3 +210,9 @@ Replicating targets on [cssbattle.dev](https://cssbattle.dev/)
 <p><p a><p b><body bgcolor=6592CF><style>p{position:fixed;top:24;left:40;
 width:80;height:40;border:20px solid#060F55;border-bottom:0;border-radius:80px 80px 0 0}[a]{left:240}[b]{transform:rotate(180deg);top:184;left:140
 ```
+
+## [Target #27 - Lock Up](https://cssbattle.dev/play/27)
+
+```HTML
+<p a c><p b c><p s l><p s r><body bgcolor=E38F66><style>p{position:fixed;background:#AA445F}[c]{border-radius:50%}[b]{width:80;height:80;box-shadow:0 0 0 30px#F7EC7D;top:94;left:160}[s]{width:70;height:70}[l]{top:64;left:130}[r]{top:134;left:200}[a]{width:200;height:200;left:100;top:34
+```
