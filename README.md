@@ -218,3 +218,11 @@ width:80;height:40;border:20px solid#060F55;border-bottom:0;border-radius:80px 8
 ```HTML
 <p a c><p b c><p s l><p s r><body bgcolor=E38F66><style>p{position:fixed;background:#AA445F}[c]{border-radius:50%}[b]{width:80;height:80;box-shadow:0 0 0 30px#F7EC7D;top:94;left:160}[s]{width:70;height:70}[l]{top:64;left:130}[r]{top:134;left:200}[a]{width:200;height:200;left:100;top:34
 ```
+
+## [Target #28 - Cups & Balls](https://cssbattle.dev/play/28)
+
+![](https://cssbattle.dev/targets/28.png)
+
+```HTML
+<p c d><p><p d><p c><p u><p c d><p c><p u d><style>body{background:#1A4341;display:flex;justify-content:center;align-content:center;flex-wrap:wrap;margin:50}p{width:50;height:50;background:#F3AC3C;margin:10;border-radius:50% 50% 0 0}[u]{transform:rotate(180deg)}[c]{border-radius:50%}[d]{background:#998235
+```
