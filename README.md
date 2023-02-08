@@ -226,3 +226,11 @@ width:80;height:40;border:20px solid#060F55;border-bottom:0;border-radius:80px 8
 ```HTML
 <p c d><p><p d><p c><p u><p c d><p c><p u d><style>body{background:#1A4341;display:flex;justify-content:center;align-content:center;flex-wrap:wrap;margin:50}p{width:50;height:50;background:#F3AC3C;margin:10;border-radius:50% 50% 0 0}[u]{transform:rotate(180deg)}[c]{border-radius:50%}[d]{background:#998235
 ```
+
+## [Target #29 - Suffocate](https://cssbattle.dev/play/29)
+
+![](https://cssbattle.dev/targets/29.png)
+
+```HTML
+<p><p b><style>body{background:#1A4341;margin:0;border:50px solid#F3AC3C}p{position:fixed;width:300;height:200;background:#F3AC3C;border-radius:200px;top:-66;left:-100;-webkit-box-reflect:right}[b]{top:134
+```
