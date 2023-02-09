@@ -234,3 +234,19 @@ width:80;height:40;border:20px solid#060F55;border-bottom:0;border-radius:80px 8
 ```HTML
 <p><p b><style>body{background:#1A4341;margin:0;border:50px solid#F3AC3C}p{position:fixed;width:300;height:200;background:#F3AC3C;border-radius:200px;top:-66;left:-100;-webkit-box-reflect:right}[b]{top:134
 ```
+
+## [Target #30 - Horizon](https://cssbattle.dev/play/30)
+
+![](https://cssbattle.dev/targets/30.png)
+
+```HTML
+<p style="box-shadow:0 0 0 42px#F7EC7D,0 0 0 92px#E38F66,0 0 0 192px#AA445F,0 0 0 300px#62306D">
+```
+
+## [Target #31 - Equals](https://cssbattle.dev/play/31)
+
+![](https://cssbattle.dev/targets/31.png)
+
+```HTML
+<p><body bgcolor=AA445F><style>p{height:200;width:50;border-left:100px solid#F7EC7D;border-right:100px solid#E38F66;border-radius:200px;margin:50 67
+```
