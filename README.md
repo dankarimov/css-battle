@@ -250,3 +250,11 @@ width:80;height:40;border:20px solid#060F55;border-bottom:0;border-radius:80px 8
 ```HTML
 <p><body bgcolor=AA445F><style>p{height:200;width:50;border-left:100px solid#F7EC7D;border-right:100px solid#E38F66;border-radius:200px;margin:50 67
 ```
+
+## [Target #32 - Band-aid](https://cssbattle.dev/play/32)
+
+![](https://cssbattle.dev/targets/32.png)
+
+```HTML
+<p><p r><p c><style>p{position:fixed;width:50;height:200;transform:rotate(45deg);background:#A3A368;top:34;left:175}[r]{background:#F3AC3C;transform:rotate(-45deg)}[c]{height:50;background:#FBE18C;top:109
+```
